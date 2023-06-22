@@ -18,7 +18,7 @@ def arrToBday(arr):
 
 N = 10000 #number of trials
 # n = input("number of babies to compare: ")
-n = 75
+n = 23
 count = 0
 
 for x in range(N):
